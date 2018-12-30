@@ -1,6 +1,6 @@
 from hashing import hashingtxt
 import hashlib
-
+print (3*"\t","=============> Enjoy!  <=============")
 text = str(input ("Enter a text: "))
 
 while text == '':
